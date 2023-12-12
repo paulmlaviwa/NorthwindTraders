@@ -12,7 +12,7 @@ public class NorthwindTraders {
         // Opening a connection to the DB
         String url = "jdbc:mysql://localhost:3306/northwind";
         String user = "root";
-        String password = "@Cyantist.93_";
+        String password = "***************";
 
         try (Scanner scanner = new Scanner(System.in)) {
             while (true) {
